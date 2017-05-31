@@ -1,0 +1,3 @@
+/Users/mike/Projects/timus_online_judge/1820/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mike/Projects/timus_online_judge/1820/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mike/Projects/timus_online_judge/1820/cmake-build-debug/CMakeFiles/1820.dir
